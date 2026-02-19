@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[User Opens Home Screen] --> B[User Clicks Emoji Button]
     B --> C[JavaScript addEventListener Triggered]
@@ -8,4 +9,4 @@ flowchart TD
     G --> H[Store Updated Array in LocalStorage]
     H --> I[Display Confirmation Message]
     I --> J[Redirect to Recommendations Screen]
-
+```
